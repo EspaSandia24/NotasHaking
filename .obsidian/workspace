@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "8c831d5ae25435b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "44051781533aa991",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "retos-bandit/Level16 - Level17.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "737b5e295c3f5474",
+    "type": "split",
+    "children": [
+      {
+        "id": "2289c9390882d6b2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ccbac423f70bc022",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0fe33aa4b93e0633",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "acffba7f26cf0761",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 169.5
+  },
+  "right": {
+    "id": "c870c38fa8eb97dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "86eed26d070b8d52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be8187733f095d7c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "retos-bandit/Level16 - Level17.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0a20dcd91b08d1ed",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "retos-bandit/Level16 - Level17.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bd6df53d9cd2d062",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e6d1e16de77807b5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "retos-bandit/Level16 - Level17.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "44051781533aa991",
+  "lastOpenFiles": [
+    "retos-bandit/Level17 - Level18.md",
+    "retos-bandit/Level16 - Level17.md",
+    "retos-bandit/Level13 - Level14.md",
+    "retos-bandit/Level15 - Level16.md",
+    "retos-bandit/Level14 - Level15.md",
+    "retos-bandit/Level11 - Level12.md",
+    "retos-bandit/Level9 - Level10.md",
+    "retos-bandit/level12 - level13.md",
+    "retos-bandit/bandit.md",
+    "retos-bandit/Level6 - Level7.md"
+  ]
+}
