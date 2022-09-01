@@ -32,6 +32,8 @@ bandit12@bandit:~$ cat data.txt | xxd -r |zcat|bzcat|zcat|tar xO|tar xO|bzcat|ta
 /dev/stdin: gzip compressed data, was "data9.bin", last modified: Thu May  7 18:14:30 2020, max compression, from Unix
 bandit12@bandit:~$ cat data.txt | xxd -r |zcat|bzcat|zcat|tar xO|tar xO|bzcat|tar xO|zcat|file -
 /dev/stdin: ASCII text
+bandit12@bandit:~$ cat data.txt | xxd -r |zcat|bzcat|zcat|tar xO|tar xO|bzcat|tar xO|zcat
+8ZjyCRiBWFYkneahHwxCv3wb2a1ORpYL
 
 
 **Notas adicionales** 

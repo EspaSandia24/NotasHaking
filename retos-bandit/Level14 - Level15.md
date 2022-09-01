@@ -7,12 +7,10 @@ La contraseña para el siguiente nivel se puede recuperar enviando la contraseñ
 **Datos de acceso**
 server: **bandit.labs.overthewire.org** 
 usuario: **bandit14**
-contraseña: 
+contraseña: 4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e
 
 **Solucion**
-nc  localhost 30000
-nc  -v localhost 30000
-
+bandit14@bandit:~$ bandit14@bandit:~$ nc localhost 30000 -v                                                    localhost [127.0.0.1] 30000 (?) open                                                                           4wcYUJFw0k0XLShlDzztnTBHiqxU3b3e                                                                               Correct!                                                                                                       BfMYroe26WYalil77FoDi9qh59eK5xNr                                                                                                                                                                                              bandit14@bandit:~$
 
 **Notas adicionales** 
 
