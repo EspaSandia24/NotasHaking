@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "retos-bandit/Level16 - Level17.md",
+            "file": "retos-bandit/Level13 - Level14.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "retos-bandit/Level16 - Level17.md",
+                "file": "retos-bandit/Level13 - Level14.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "retos-bandit/Level16 - Level17.md",
+                "file": "retos-bandit/Level13 - Level14.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "retos-bandit/Level16 - Level17.md"
+                "file": "retos-bandit/Level13 - Level14.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "44051781533aa991",
   "lastOpenFiles": [
-    "retos-bandit/Level17 - Level18.md",
-    "retos-bandit/Level16 - Level17.md",
-    "retos-bandit/Level13 - Level14.md",
-    "retos-bandit/Level15 - Level16.md",
-    "retos-bandit/Level14 - Level15.md",
+    "retos-bandit/level12 - Level13.md",
     "retos-bandit/Level11 - Level12.md",
+    "retos-bandit/Level10 - Level11.md",
+    "retos-bandit/Level13 - Level14.md",
+    "retos-bandit/Level14 - Level15.md",
+    "retos-bandit/Level15 - Level16.md",
+    "retos-bandit/Level16 - Level17.md",
+    "retos-bandit/Level17 - Level18.md",
     "retos-bandit/Level9 - Level10.md",
-    "retos-bandit/level12 - level13.md",
-    "retos-bandit/bandit.md",
-    "retos-bandit/Level6 - Level7.md"
+    "retos-bandit/Level8 - Level9.md"
   ]
 }

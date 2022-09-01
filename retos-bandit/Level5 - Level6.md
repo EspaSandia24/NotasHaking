@@ -5,7 +5,7 @@ La contraseña para el siguiente nivel se almacena en un archivo en algún lugar
 
 **Datos de acceso**
 server: **bandit.labs.overthewire.org** 
-usuario: **bandit4**
+usuario: **bandit5**
 contraseña: koReBOKuIDDepwhWk7jZC0RTdopnAYKh
 **Solucion**
 bandit5@bandit:~/inhere$ find . -type f size 1033c

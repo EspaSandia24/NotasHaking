@@ -2,6 +2,7 @@
 
 **Objetivo**
 
+Las credenciales para el siguiente nivel se pueden recuperar enviando la contraseña del nivel actual a **un puerto en localhost en el rango 31000 a 32000** . Primero averigüe cuáles de estos puertos tienen un servidor escuchando en ellos. Luego, averigüe cuáles de ellos hablan SSL y cuáles no. Solo hay 1 servidor que proporcionará las siguientes credenciales, los demás simplemente le enviarán lo que le envíe.
 
 **Datos de acceso**
 server: **bandit.labs.overthewire.org** 
@@ -24,10 +25,7 @@ ls -la
 ssh -i lallave bandit16@localhots
 cat /etc/bandit_pass/bandit17
 
-
-
-
-
 **Notas adicionales** 
 
 **Referencias** 
+https://en.wikipedia.org/wiki/Port_scanner
