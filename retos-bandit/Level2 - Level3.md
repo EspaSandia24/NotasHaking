@@ -9,11 +9,13 @@ usuario: **bandit2**
 contraseña: CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
 
 Solucion
+```bash
 bandit2@bandit:~$ ls
 spaces in this filename
 bandit2@bandit:~$ cat spaces\ in\ this\ filename
 UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
 bandit2@bandit:~$
+```
 
 Notas adicionales 
 

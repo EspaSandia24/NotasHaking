@@ -1,12 +1,15 @@
 **Bandit **
 
 **Objetivo**
+Un programa se ejecuta automáticamente a intervalos regulares desde **cron** , el programador de trabajos basado en el tiempo. Busque en **/etc/cron.d/** la configuración y vea qué comando se está ejecutando.
 
 **Datos de acceso**
 server: **bandit.labs.overthewire.org** 
 usuario: **bandit19**
 contraseña:  NvEJF7oVjkddltPSrdKEFOllh9V1IBcq
+
 **Solucion**
+```bash
 bandit21@bandit:~$ ls -la /etc/cron.d/
 total 48
 drwxr-xr-x   2 root root 4096 Sep  1 06:30 .
@@ -31,6 +34,7 @@ cat /etc/bandit_pass/bandit22 > /tmp/t7O6lds9S0RqQh9aMcz6ShpAoZKF7fgv
 bandit21@bandit:~$ cat /tmp/t7O6lds9S0RqQh9aMcz6ShpAoZKF7fgv
 WdDozAdTM2z9DiFEQ2mGlwngMfj4EZff
 bandit21@bandit:~$
+```
 **Notas adicionales** 
 
 **Referencias** 

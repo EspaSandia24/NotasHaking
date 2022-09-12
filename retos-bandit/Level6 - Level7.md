@@ -13,11 +13,13 @@ usuario: **bandit6*
 contraseña: DXjZPULLxYr17uwoI01bNLQbtFemEgo7
 
 **Solucion**
+```bash
 bandit6@bandit:~$ find / -user bandit7 -group bandit6 -size 33c 2>/dev/null/var/lib/dpkg/info/bandit7.password
 -bash: /dev/null/var/lib/dpkg/info/bandit7.password: Not a directory
 bandit6@bandit:~$ cat /var/lib/dpkg/info/bandit7.password
 HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs
 bandit6@bandit:~$
+```
 
 **Notas adicionales** 
 

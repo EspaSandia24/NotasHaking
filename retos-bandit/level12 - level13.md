@@ -10,6 +10,7 @@ usuario: **bandit12**
 contraseña: 5Te8Y4drgCRfCx8ugdwuEX8KFC6k2EUu
 
 **Solucion**
+```bash
 bandit12@bandit:~$ cat data.txt | xxd -r
 J쌑Oϊ{RBpQixYZ!dj(搿ݳ/A#dbX?z2<A n}4hFF4LM@zFMChFC@4@fhihPhMh
 5(3AwOR6XS{
@@ -34,7 +35,7 @@ bandit12@bandit:~$ cat data.txt | xxd -r |zcat|bzcat|zcat|tar xO|tar xO|bzcat|ta
 /dev/stdin: ASCII text
 bandit12@bandit:~$ cat data.txt | xxd -r |zcat|bzcat|zcat|tar xO|tar xO|bzcat|tar xO|zcat
 8ZjyCRiBWFYkneahHwxCv3wb2a1ORpYL
-
+```
 
 **Notas adicionales** 
 el -d  y xf sirvepara descomprime  en el disco

@@ -12,6 +12,7 @@ usuario: **bandit17**
 contraseña: VwOSWtCA7lRKkTfbr2IDh6awj9RNZM5e
 
 **Solucion**
+```bash
 bandit17@bandit:~$ ls
 passwords.new  passwords.old
 bandit17@bandit:~$ head passwords.old
@@ -34,8 +35,9 @@ bandit17@bandit:~$ diff passwords.old passwords.new
 < 09wUIyMU4YhOzl1Lzxoz0voIBzZ2TUAf
 ---
 > hga5tuuCLF6fFzUpnagiMN8ssu9LFrdg
-
+```
 
 **Notas adicionales** 
 dif conpara archivos
+
 **Referencias** 

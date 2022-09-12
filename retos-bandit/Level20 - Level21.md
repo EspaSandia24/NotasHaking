@@ -1,12 +1,16 @@
 **Bandit **
 
 **Objetivo**
+Hay un binario setuid en el directorio de inicio que hace lo siguiente: establece una conexión con localhost en el puerto que especifique como argumento de la línea de comandos. Luego lee una línea de texto de la conexión y la compara con la contraseña del nivel anterior (bandit20). Si la contraseña es correcta, transmitirá la contraseña para el siguiente nivel (bandit21).
+
+**NOTA:** intente conectarse a su propio demonio de red para ver si funciona como cree
 
 **Datos de acceso**
 server: **bandit.labs.overthewire.org** 
 usuario: **bandit19**
 contraceña: VxCazJaVykI6W36BkBU0mJTCM8rR95XT
 **Solucion**
+```bash
 bandit20@bandit:~$ ls -la
 total 36
 drwxr-xr-x  2 root     root      4096 Sep  1 06:30 .
@@ -27,6 +31,7 @@ Password matches, sending next password
 NvEJF7oVjkddltPSrdKEFOllh9V1IBcq
 [1]+  Done                    nc -lvp 4020 <<< VxCazJaVykI6W36BkBU0mJTCM8rR95XT
 bandit20@bandit:~$
+```
 **Notas adicionales** 
 
 **Referencias** 

@@ -9,13 +9,14 @@ usuario: **bandit3**
 contraseña: UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
 
 Solucion
-
+```bash
 bandit3@bandit:~$ cd inhere/
 bandit3@bandit:~/inhere$ ls -a
 .  ..  .hidden
 bandit3@bandit:~/inhere$ cat .hidden
 pIwrPrtPN36QITSp3EQaw936yaFoFgAB
 bandit3@bandit:~/inhere$
+```
 
 Notas adicionales 
 -a es para poder ver los archivos ocultos

@@ -9,6 +9,7 @@ server: **bandit.labs.overthewire.org** 
 usuario: **bandit4**
 contraseña: pIwrPrtPN36QITSp3EQaw936yaFoFgAB
 **Solucion**
+```bash
 bandit4@bandit:~/inhere$ cat./-file00
 -bash: cat./-file00: No such file or directory
 bandit4@bandit:~/inhere$ file ./-file00
@@ -46,6 +47,8 @@ bandit4@bandit:~/inhere$ file ./-*
 bandit4@bandit:~/inhere$ cat ./-file07
 koReBOKuIDDepwhWk7jZC0RTdopnAYKh
 bandit4@bandit:~/inhere$
+```
+
 **Notas adicionales** 
 el file  te dice que tipo de informacion tiene
 **Referencias** 

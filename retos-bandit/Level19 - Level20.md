@@ -1,12 +1,14 @@
 **Bandit **
 
 **Objetivo**
+Para obtener acceso al siguiente nivel, debe usar el binario setuid en el directorio de inicio. Ejecutarlo sin argumentos para saber cómo usarlo. La contraseña para este nivel se puede encontrar en el lugar habitual (/etc/bandit_pass), después de haber utilizado el binario setuid.
 
 **Datos de acceso**
 server: **bandit.labs.overthewire.org** 
 usuario: **bandit19**
 contraseña: awhqfNnAbc1naukrpqDYcF95h7HoMTrC
 **Solucion**
+```bash
 bandit19@bandit:~$ ls -la
 total 36
 drwxr-xr-x  2 root     root      4096 Sep  1 06:30 .
@@ -22,7 +24,7 @@ bandit19@bandit:~$ ./bandit20-do id
 uid=11019(bandit19) gid=11019(bandit19) euid=11020(bandit20) groups=11019(bandit19)
 bandit19@bandit:~$ ./bandit20-do cat /etc/bandit_pass/bandit20
 VxCazJaVykI6W36BkBU0mJTCM8rR95XT
-
+```
 **Notas adicionales** 
 
 **Referencias** 

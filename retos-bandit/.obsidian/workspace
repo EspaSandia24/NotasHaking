@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Level20 - Level21.md",
+            "file": "Level27 - Level28.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Level20 - Level21.md",
+                "file": "Level27 - Level28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Level20 - Level21.md",
+                "file": "Level27 - Level28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Level20 - Level21.md"
+                "file": "Level27 - Level28.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "588f80e87c361757",
   "lastOpenFiles": [
-    "Level21 - Level22.md",
-    "Level22 - Level23.md",
+    "Level26 - Level27.md",
+    "Level25 - Level26.md",
+    "Level24 - Level25.md",
     "Level23 - Level24.md",
+    "Level22 - Level23.md",
+    "Level21 - Level22.md",
     "Level20 - Level21.md",
     "Level19 - Level20.md",
     "Level18 - Level19.md",
-    "Level17 - Level18.md",
-    "Level15 - Level16.md",
-    "Level16 - Level17.md",
-    "Level14 - Level15.md"
+    "Level17 - Level18.md"
   ]
 }

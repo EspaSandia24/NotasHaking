@@ -1,12 +1,16 @@
 **Bandit **
 
 **Objetivo**
+Un programa se ejecuta automáticamente a intervalos regulares desde **cron** , el programador de trabajos basado en el tiempo. Busque en **/etc/cron.d/** la configuración y vea qué comando se está ejecutando.
+
+**NOTA:** Mirar scripts de shell escritos por otras personas es una habilidad muy útil. El guión para este nivel se hace fácil de leer intencionalmente. Si tiene problemas para comprender lo que hace, intente ejecutarlo para ver la información de depuración que imprime.
 
 **Datos de acceso**
 server: **bandit.labs.overthewire.org** 
 usuario: **bandit22**
-contraseña: WdDozAdTM2z9DiFEQ2mGlwngMfj4EZff
+contraseña: WdDozAdTM2z9DiFEQ2mGlwngMfj4EZfff
 **Solucion**
+```bash
 bandit22@bandit:~$ ls -la
 total 20
 drwxr-xr-x  2 root root 4096 Sep  1 06:29 .
@@ -27,7 +31,7 @@ echo "Copying passwordfile /etc/bandit_pass/$myname to /tmp/$mytarget"
 
 cat /etc/bandit_pass/$myname > /tmp/$mytarget
 
-
+```
 **Notas adicionales** 
 
 **Referencias** 
