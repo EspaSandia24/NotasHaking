@@ -9,7 +9,7 @@ Un programa se ejecuta automáticamente a intervalos regulares desde **cron** 
 
 **Datos de acceso**
 server: **bandit.labs.overthewire.org** 
-usuario: **bandit19**
+usuario: **bandit23**
 contraseña: QYw0Y2aiA672PsMmh9puTQuhoz8SyR2G
 **Solucion**
 ```bash

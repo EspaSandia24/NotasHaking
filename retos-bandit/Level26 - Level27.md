@@ -5,7 +5,7 @@
 
 **Datos de acceso**
 server: **bandit.labs.overthewire.org** 
-usuario: **bandit19**
+usuario: **bandit26**
 contraseña: c7GvcKlw9mC7aUQaPx7nwFstuAIBw1o1
 **Solucion**
 ```bash

@@ -5,7 +5,7 @@ Iniciar sesión en bandit26 desde bandit25 debería ser bastante fácil... El sh
 
 **Datos de acceso**
 server: **bandit.labs.overthewire.org** 
-usuario: **bandit19**
+usuario: **bandit25**
 contraseña: p7TaowMYrmu23Ol8hiZh9UvD0O9hpx8d
 **Solucion**
 ```bash

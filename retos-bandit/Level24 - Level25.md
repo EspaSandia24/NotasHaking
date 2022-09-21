@@ -5,7 +5,7 @@ Un demonio está escuchando en el puerto 30002 y le dará la contraseña de band
 
 **Datos de acceso**
 server: **bandit.labs.overthewire.org** 
-usuario: **bandit19**
+usuario: **bandit24**
 contraseña: VAfGXJ1PBSsPSnvsjI8p759leLZ9GGar
 **Solucion**
 ```bash

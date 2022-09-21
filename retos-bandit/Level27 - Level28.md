@@ -7,7 +7,7 @@ Clona el repositorio y encuentra la contraseña para el siguiente nivel.
 
 **Datos de acceso**
 server: **bandit.labs.overthewire.org** 
-usuario: **bandit19**
+usuario: **bandit27**
 contraseña: YnQpBuifNMas1hcUFk70ZmqkhUU2EuaS
 **Solucion**
 
