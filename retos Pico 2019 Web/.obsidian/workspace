@@ -1,29 +1,33 @@
 {
   "main": {
-    "id": "7ebb5baa171143f5",
+    "id": "07b83c86fd4d8f99",
     "type": "split",
     "children": [
       {
-        "id": "8585824d292b7335",
+        "id": "5091cbf94e0c4e6b",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Inspector.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "bb92e592ebe1cb20",
+    "id": "f71a564ac5544583",
     "type": "split",
     "children": [
       {
-        "id": "b48d7575751cd26d",
+        "id": "5a3b59eed0a19a3a",
         "type": "tabs",
         "children": [
           {
-            "id": "d203ca1d2ac14775",
+            "id": "1397025dbca9109f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -31,7 +35,7 @@
             }
           },
           {
-            "id": "9a248b5dcc6824d0",
+            "id": "eb778162d459e666",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -46,34 +50,34 @@
             }
           },
           {
-            "id": "dcf4d29075dcd6fe",
+            "id": "49817437a53706d0",
             "type": "leaf",
             "state": {
               "type": "starred",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 213.5
+    "width": 300
   },
   "right": {
-    "id": "8a82f5b9e4f315ec",
+    "id": "e3953cba0122721e",
     "type": "split",
     "children": [
       {
-        "id": "760089b91efd52a0",
+        "id": "30f8eb20d3ce55bd",
         "type": "tabs",
         "children": [
           {
-            "id": "ae620daef535fbbf",
+            "id": "d7a4df885ce63c90",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Inspector.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,18 +89,19 @@
             }
           },
           {
-            "id": "765dae8e5368794b",
+            "id": "8708a55e161130e1",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Inspector.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "e7de925e10b53099",
+            "id": "453327663e6608c1",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -107,11 +112,13 @@
             }
           },
           {
-            "id": "95589a779c1f7f14",
+            "id": "cd1f408565114b35",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Inspector.md"
+              }
             }
           }
         ]
@@ -121,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8585824d292b7335",
+  "active": "5091cbf94e0c4e6b",
   "lastOpenFiles": [
-    "Level23 - Level24.md",
-    "Level24 - Level25.md",
-    "Level22 - Level23.md",
-    "Level25 - Level26.md",
-    "Level26 - Level27.md",
-    "Level27 - Level28.md",
-    "Level28 - Level29.md",
-    "Level30 - Level31.md",
-    "Level29 - Level30.md",
-    "Level31 - Level32.md"
+    "dont-use-client-side.md",
+    "GET aHEAD.md",
+    "Cookies.md",
+    "Client-side-again.md",
+    "JaWT Scratchpad.md",
+    "Irish-Name-Repo 3.md",
+    "picobrowser.md",
+    "logon.md",
+    "Where are the robots.md",
+    "Inspector.md"
   ]
 }

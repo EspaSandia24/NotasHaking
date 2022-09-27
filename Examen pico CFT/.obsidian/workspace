@@ -1,29 +1,33 @@
 {
   "main": {
-    "id": "7ebb5baa171143f5",
+    "id": "ea45a558a3f51ed9",
     "type": "split",
     "children": [
       {
-        "id": "8585824d292b7335",
+        "id": "69aae0d4274442bd",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Pico CTF 2021/Magikarp Ground Mission.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "bb92e592ebe1cb20",
+    "id": "de28bbb37d3d6d37",
     "type": "split",
     "children": [
       {
-        "id": "b48d7575751cd26d",
+        "id": "a98614aa92f6eb5d",
         "type": "tabs",
         "children": [
           {
-            "id": "d203ca1d2ac14775",
+            "id": "518528ed7dd281c6",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -31,7 +35,7 @@
             }
           },
           {
-            "id": "9a248b5dcc6824d0",
+            "id": "92614a82a3490745",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -46,34 +50,34 @@
             }
           },
           {
-            "id": "dcf4d29075dcd6fe",
+            "id": "819fb18e297e4656",
             "type": "leaf",
             "state": {
               "type": "starred",
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 213.5
+    "width": 300
   },
   "right": {
-    "id": "8a82f5b9e4f315ec",
+    "id": "fffd34695cba243f",
     "type": "split",
     "children": [
       {
-        "id": "760089b91efd52a0",
+        "id": "94b97bd73f588d07",
         "type": "tabs",
         "children": [
           {
-            "id": "ae620daef535fbbf",
+            "id": "0cd7cbe8149519b7",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Pico CTF 2021/Magikarp Ground Mission.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,18 +89,19 @@
             }
           },
           {
-            "id": "765dae8e5368794b",
+            "id": "004db05535fab15d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Pico CTF 2021/Magikarp Ground Mission.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "e7de925e10b53099",
+            "id": "a68a5282dc0dcef6",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -107,11 +112,13 @@
             }
           },
           {
-            "id": "95589a779c1f7f14",
+            "id": "423cb54f0807f846",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Pico CTF 2021/Magikarp Ground Mission.md"
+              }
             }
           }
         ]
@@ -121,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8585824d292b7335",
+  "active": "69aae0d4274442bd",
   "lastOpenFiles": [
-    "Level23 - Level24.md",
-    "Level24 - Level25.md",
-    "Level22 - Level23.md",
-    "Level25 - Level26.md",
-    "Level26 - Level27.md",
-    "Level27 - Level28.md",
-    "Level28 - Level29.md",
-    "Level30 - Level31.md",
-    "Level29 - Level30.md",
-    "Level31 - Level32.md"
+    "Pico CTF 2021/Wave a flag.md",
+    "Pico CTF 2021/Obedient Cat.md",
+    "Pico CTF 2021/Nice netcat.md",
+    "Pico CTF 2019/Frist Grep/Frist Grep.md",
+    "Pico CTF 2021/Magikarp Ground Mission.md",
+    "Pico CTF 2019/Based/Based.md",
+    "Pico CTF 2019/Bases.md",
+    "Pico CTF 2019/Based.md",
+    "Pico CTF 2019/whats a net cat.md",
+    "Pico CTF 2019/Warmed Up.md"
   ]
 }

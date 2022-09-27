@@ -15,7 +15,7 @@ contraseña: QYw0Y2aiA672PsMmh9puTQuhoz8SyR2G
 ```bash
 ls -la /etc/cron.d
 cat /etc/cron.d/cronjob_bandit24
-cat /usr/bin/cronjob_bandit24.ssh 
+cat /usr/bin/cronjob_bandit24.sh 
 
 mkdir /tem/sandiaEs
 cd /temp/sandiaEs

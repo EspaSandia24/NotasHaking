@@ -1,0 +1,18 @@
+**Descripcion**
+
+There is a website running at `https://jupiter.challenges.picoctf.org/problem/64649/` ([link](https://jupiter.challenges.picoctf.org/problem/64649/)). Someone has bypassed the login before, and now it's being strengthened. Try to see if you can still login! or http://jupiter.challenges.picoctf.org:64649
+
+**Solucion**
+como podemos ver este problema es parecido al anterior pero no podemos resolverlo de la misma forma ya que lo modificaron para que no funcione con or .
+entonces para evitarnos adivinar la contraseña  lo que hacemos ya que lo que se manda al hacer el login es una sentencia sql en el usuario lo ponemos de la siguiente manera:
+
+admin';
+
+de esta forma la sentencia terminara despues del usuario y nos dejara entratar.
+
+picoCTF{m0R3_SQL_plz_aee925db}
+```bash
+
+```
+
+**Notas Adicionales**
