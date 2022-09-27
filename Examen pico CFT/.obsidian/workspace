@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "69aae0d4274442bd",
+        "id": "bbed435341a3f7e2",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Pico CTF 2021/Magikarp Ground Mission.md",
+            "file": "Beginner PicoMIni 2022/fixme1.py.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pico CTF 2021/Magikarp Ground Mission.md",
+                "file": "Beginner PicoMIni 2022/fixme1.py.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pico CTF 2021/Magikarp Ground Mission.md",
+                "file": "Beginner PicoMIni 2022/fixme1.py.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pico CTF 2021/Magikarp Ground Mission.md"
+                "file": "Beginner PicoMIni 2022/fixme1.py.md"
               }
             }
           }
@@ -128,17 +128,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "69aae0d4274442bd",
+  "active": "518528ed7dd281c6",
   "lastOpenFiles": [
-    "Pico CTF 2021/Wave a flag.md",
-    "Pico CTF 2021/Obedient Cat.md",
-    "Pico CTF 2021/Nice netcat.md",
-    "Pico CTF 2019/Frist Grep/Frist Grep.md",
-    "Pico CTF 2021/Magikarp Ground Mission.md",
-    "Pico CTF 2019/Based/Based.md",
-    "Pico CTF 2019/Bases.md",
-    "Pico CTF 2019/Based.md",
-    "Pico CTF 2019/whats a net cat.md",
-    "Pico CTF 2019/Warmed Up.md"
+    "Beginner PicoMIni 2022/PW Crack 3.md",
+    "Beginner PicoMIni 2022/PW Crack 2.md",
+    "Beginner PicoMIni 2022/PW Crack 1.md",
+    "Beginner PicoMIni 2022/Glitch Cat.md",
+    "Beginner PicoMIni 2022/runme.py.md",
+    "Beginner PicoMIni 2022/fixme2.py.md",
+    "Beginner PicoMIni 2022/fixme1.py.md",
+    "Beginner PicoMIni 2022/convertme.py.md",
+    "Beginner PicoMIni 2022/Codebook.md",
+    "Pico CTF 2019/Based/Based.md"
   ]
 }
