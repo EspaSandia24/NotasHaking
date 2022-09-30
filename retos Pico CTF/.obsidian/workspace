@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Inspector.md",
+            "file": "2019/Forensic/White Pages/white Pages.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inspector.md",
+                "file": "2019/Forensic/White Pages/white Pages.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inspector.md",
+                "file": "2019/Forensic/White Pages/white Pages.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inspector.md"
+                "file": "2019/Forensic/White Pages/white Pages.md"
               }
             }
           }
@@ -130,15 +130,15 @@
   },
   "active": "5091cbf94e0c4e6b",
   "lastOpenFiles": [
-    "dont-use-client-side.md",
-    "GET aHEAD.md",
-    "Cookies.md",
+    "2019/Forensic/What Lies Within/What Liea Within.md",
+    "2019/Forensic/Shark on wire 1/Shark on wire 1.md",
+    "2019/Forensic/m00nwalk/M00nwalk.md",
+    "2019/Forensic/Glory of the Garden/Glory of the Garden.md",
+    "Forensic/Glory of the Garden.md",
+    "Forensic/So Meta.md",
     "Client-side-again.md",
-    "JaWT Scratchpad.md",
     "Irish-Name-Repo 3.md",
-    "picobrowser.md",
-    "logon.md",
-    "Where are the robots.md",
-    "Inspector.md"
+    "Irish-Name-Repo 1.md",
+    "Irish-Name_Repo 2.md"
   ]
 }
