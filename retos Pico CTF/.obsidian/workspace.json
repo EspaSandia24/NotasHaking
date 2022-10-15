@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "07b83c86fd4d8f99",
+    "type": "split",
+    "children": [
+      {
+        "id": "49b0cbf6ba004741",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5091cbf94e0c4e6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2022/Forensic/Sleuthkit Intr/Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f71a564ac5544583",
+    "type": "split",
+    "children": [
+      {
+        "id": "5a3b59eed0a19a3a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1397025dbca9109f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "eb778162d459e666",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "49817437a53706d0",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 270.5
+  },
+  "right": {
+    "id": "e3953cba0122721e",
+    "type": "split",
+    "children": [
+      {
+        "id": "30f8eb20d3ce55bd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7a4df885ce63c90",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2022/Forensic/Sleuthkit Intr/Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8708a55e161130e1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2022/Forensic/Sleuthkit Intr/Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "453327663e6608c1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cd1f408565114b35",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2022/Forensic/Sleuthkit Intr/Untitled.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "1397025dbca9109f",
+  "lastOpenFiles": [
+    "2022/Forensic/Operation Oni/nose.md",
+    "2021/Web Exploitation/Scavenger Hunt.md",
+    "2021/Web Exploitation/GET aHEAD.md",
+    "2021/Web Exploitation/Cookies.md",
+    "2021/Forensic/Wireshark twoo twoo two twoo/Wireshark twoo.md",
+    "2022/Forensic/Sleuthkit Intr/Untitled.md",
+    "2019/Web Exploitation/JaWT Scratchpad.md",
+    "2019/Web Exploitation/Irish-Name-Repo 3.md",
+    "2019/Web Exploitation/Irish-Name-Repo 1.md",
+    "2021/Forensic/Trivial Flag Transfer Protocol/Untitled.md"
+  ]
+}
