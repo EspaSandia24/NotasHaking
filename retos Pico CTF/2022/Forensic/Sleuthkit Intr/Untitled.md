@@ -4,6 +4,7 @@
 
 **Solucion**
 
+<<<<<<< HEAD
 ```bash
 ┌──(espasandia24㉿kali)-[~/…/retos Pico CTF/2022/Forensic/Sleuthkit Intr]
 └─$ ls    
@@ -49,4 +50,7 @@ picoCTF{mm15_f7w!}
 ```
 
 picoCTF{mm15_f7w!}
+=======
+
+>>>>>>> 4695236d195c8ad02af7dec10188e892216f0820
 **Notas Adicionales**
