@@ -4,35 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "78f26a96d542a153",
+        "id": "ea6d269aece3bb66",
         "type": "tabs",
         "children": [
           {
-            "id": "f6856974d54298e5",
+            "id": "528233f7453deec7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2019/Crypto/Easy1/Untitled.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d42f12b702bf34fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2019/Crypto/waves over lambda/Waves over lambda.md",
+                "file": "2019/Forensic/So Meta/So Meta.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2019/Crypto/waves over lambda/Waves over lambda.md",
+                "file": "2019/Forensic/So Meta/So Meta.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2019/Crypto/waves over lambda/Waves over lambda.md",
+                "file": "2019/Forensic/So Meta/So Meta.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2019/Crypto/waves over lambda/Waves over lambda.md"
+                "file": "2019/Forensic/So Meta/So Meta.md"
               }
             }
           }
@@ -152,17 +139,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "d42f12b702bf34fb",
+  "active": "528233f7453deec7",
   "lastOpenFiles": [
+    "2019/Forensic/m00nwalk/M00nwalk.md",
+    "2019/Forensic/What Lies Within/What Liea Within.md",
+    "2019/Forensic/Extensions/Extensions.md",
+    "2019/Forensic/Shark on wire 1/Shark on wire 1.md",
+    "2019/Forensic/Glory of the Garden/Glory of the Garden.md",
+    "2019/Crypto/waves over lambda/Waves over lambda.md",
     "2019/Crypto/laCifra/LA CIFRA ES.md",
     "2019/Crypto/Easy1/Untitled.md",
     "2019/Crypto/cesar/cesar.md",
-    "2019/Crypto/13/13.md",
-    "2019/Crypto/The numbers/The Numbers.md",
-    "2019/Web Exploitation/picobrowser.md",
-    "2019/Forensic/So Meta/So Meta.md",
-    "2019/Forensic/Glory of the Garden/Glory of the Garden.md",
-    "Pasted image 20221016141027.png.md",
-    "2019/Forensic/m00nwalk/M00nwalk.md"
+    "2019/Crypto/13/13.md"
   ]
 }
