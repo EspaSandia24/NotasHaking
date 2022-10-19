@@ -1,0 +1,154 @@
+{
+  "main": {
+    "id": "ec6b1ec302de7d71",
+    "type": "split",
+    "children": [
+      {
+        "id": "d360bc69e5612672",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cc6ac603a6b33732",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "la enchilada/la enchilada.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1af1277b103c69f0",
+    "type": "split",
+    "children": [
+      {
+        "id": "90ab99901bd8ece1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e378a1831b2f54e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "61521d5e89794c4c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e4211247ee932eee",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7b33214c48bcd181",
+    "type": "split",
+    "children": [
+      {
+        "id": "6208004c8dac1762",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f3e0b27be578993b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "la enchilada/la enchilada.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "920687a3ff2c295b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "la enchilada/la enchilada.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5ca022652cc13498",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "430aecb93d0293d9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "la enchilada/la enchilada.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "cc6ac603a6b33732",
+  "lastOpenFiles": [
+    "Maria's Art Class/Maria's Art Class.md",
+    "pablitoVisitsHubiku/Pablito Visits Hubikú100.md",
+    "secret bufa/secret bufa.md",
+    "siffer man/siffer man.md",
+    "la enchilada/la enchilada.md",
+    "caxcan/Untitled.md",
+    "eden mine/EdenMine.md",
+    "la enchilada/Untitled.md",
+    "Pasted image 20221018220506.png"
+  ]
+}

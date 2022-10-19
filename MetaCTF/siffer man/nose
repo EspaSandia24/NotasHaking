@@ -1,0 +1,20 @@
+220 Welcome to blah FTP service.
+AUTH TLS
+530 Please login with USER and PASS.
+AUTH SSL
+530 Please login with USER and PASS.
+USER caesar
+331 Please specify the password.
+PASS xH648eKRSHTA
+230 Login successful.
+OPTS UTF8 ON
+200 Always in UTF8 mode.
+CWD /FILES
+250 Directory successfully changed.
+TYPE A
+200 Switching to ASCII mode.
+PORT 192,168,100,153,170,215
+200 PORT command successful. Consider using PASV.
+RETR flag.txt
+150 Opening BINARY mode data connection for flag.txt (20 bytes).
+226 Transfer complete.
