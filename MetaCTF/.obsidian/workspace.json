@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "la enchilada/la enchilada.md",
+                "file": "siffer man/siffer man.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "la enchilada/la enchilada.md",
+                "file": "siffer man/siffer man.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "la enchilada/la enchilada.md",
+                "file": "siffer man/siffer man.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "la enchilada/la enchilada.md"
+                "file": "siffer man/siffer man.md"
               }
             }
           }
@@ -141,11 +141,11 @@
   },
   "active": "cc6ac603a6b33732",
   "lastOpenFiles": [
+    "la enchilada/la enchilada.md",
     "Maria's Art Class/Maria's Art Class.md",
     "pablitoVisitsHubiku/Pablito Visits Hubikú100.md",
     "secret bufa/secret bufa.md",
     "siffer man/siffer man.md",
-    "la enchilada/la enchilada.md",
     "caxcan/Untitled.md",
     "eden mine/EdenMine.md",
     "la enchilada/Untitled.md",

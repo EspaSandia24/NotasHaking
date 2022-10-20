@@ -14,6 +14,7 @@ challenge.pcapng: pcapng capture file - version 1.0
 ┌──(espasandia24㉿kali)-[~/Escritorio/HakinKali/MetaCTF/siffer man]
 └─$ wireshark challenge.pcapng
 ```
+revisando los paquetes encontramos lo siguiente
 
 ![[Pasted image 20221018230932.png]]
 
