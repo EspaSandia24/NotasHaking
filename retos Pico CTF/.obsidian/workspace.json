@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "96b1f82337f52058",
+        "id": "66ae7d6a5ad78cfa",
         "type": "tabs",
         "children": [
           {
-            "id": "c5ce280cd17c9624",
+            "id": "5ca1013ddd99dc99",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2019/Crypto/cesar/cesar.md",
+                "file": "2022/WEB/Secrets.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2019/Crypto/cesar/cesar.md",
+                "file": "2022/WEB/Secrets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2019/Crypto/cesar/cesar.md",
+                "file": "2022/WEB/Secrets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2019/Crypto/cesar/cesar.md"
+                "file": "2022/WEB/Secrets.md"
               }
             }
           }
@@ -139,17 +139,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "c5ce280cd17c9624",
+  "active": "5ca1013ddd99dc99",
   "lastOpenFiles": [
-    "2021/Web Exploitation/Scavenger Hunt.md",
-    "2019/Web Exploitation/Where are the robots.md",
-    "2019/Web Exploitation/picobrowser.md",
-    "2019/Web Exploitation/logon.md",
-    "2019/Web Exploitation/JaWT Scratchpad.md",
-    "2019/Web Exploitation/Irish-Name_Repo 2.md",
-    "2019/Web Exploitation/Inspector.md",
-    "2019/Web Exploitation/dont-use-client-side.md",
-    "2019/Web Exploitation/Client-side-again.md",
-    "2019/Forensic/WebNet0/WEbNet0.md"
+    "2022/WEB/Roboto Sans.md",
+    "2022/WEB/SQLLite.md",
+    "2022/WEB/SQL Direct.md",
+    "2022/WEB/Secrets.md",
+    "2022/WEB/Power Cookie.md",
+    "2022/WEB/Forbidden paths.md",
+    "2022/WEB/Search Source.md",
+    "2022/WEB/Local Authority.md",
+    "2022/WEB/Inspect html.md",
+    "2022/WEB/INCLUDES.md"
   ]
 }

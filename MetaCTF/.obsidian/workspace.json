@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "7b33214c48bcd181",
@@ -139,7 +140,7 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "cc6ac603a6b33732",
+  "active": "4e378a1831b2f54e",
   "lastOpenFiles": [
     "la enchilada/la enchilada.md",
     "Maria's Art Class/Maria's Art Class.md",
