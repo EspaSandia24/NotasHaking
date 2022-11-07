@@ -1,0 +1,5 @@
+#include <stdio.h>
+
+main(){
+	printf("Bandera : ox%x\n",asm4("picoCTF_724a2"));
+}

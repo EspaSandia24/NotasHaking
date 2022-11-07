@@ -1,3 +1,6 @@
+**Descripcion**
+
+
 **Solucion**
 ```bash
 ──(espasandia24㉿kali)-[~/…/retos Pico CTF/2019/Crypto/MiniRsa]
