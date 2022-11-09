@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5fb79cd468f73587",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "History peru/History peru.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "37edf9573f8f40a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "History peru/History peru.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "boom files/Boom Files.md",
+                "file": "History peru/History peru.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "boom files/Boom Files.md",
+                "file": "History peru/History peru.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "boom files/Boom Files.md"
+                "file": "History peru/History peru.md"
               }
             }
           }
@@ -149,8 +173,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "30848e8461c1f19c",
+  "active": "37edf9573f8f40a8",
   "lastOpenFiles": [
+    "Untitled.md",
+    "History peru/History peru.md",
+    "boom files/Boom Files.md",
     "find flag/find flag.md"
   ]
 }
