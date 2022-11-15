@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b9e852ad5c839c0a",
+        "id": "fd4b819abfab13ef",
         "type": "tabs",
         "children": [
           {
-            "id": "42e31ee7c7107c76",
+            "id": "e855c62f33d6a9c0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "2019/reversing/vault-door-4/valut door 4.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "2019/reversing/vault-door-4/valut door 4.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "2019/reversing/vault-door-4/valut door 4.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "2019/reversing/vault-door-4/valut door 4.md"
+              }
             }
           }
         ]
@@ -128,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "42e31ee7c7107c76",
+  "active": "e855c62f33d6a9c0",
   "lastOpenFiles": [
+    "2019/reversing/vault-door-4/valut door 4.md",
+    "2019/reversing/vault-door-3/vault door 3.md",
+    "2019/reversing/vault-door-1/vault door 1.md",
+    "2019/reversing/vault-door-traing/vault door traning.md",
     "2022/Forensic/St3g0/St3go.md",
     "2022/Forensic/Redaction gone wrong/Redaction gone.md",
     "2022/Forensic/Packets Primer/Packets Primer.md",
     "2022/Forensic/Lookey/Lookey here.md",
     "2022/Forensic/Enhance!/Enhance!.md",
-    "2022/Forensic/Operation Oni/Operation Oni.md",
-    "2022/Forensic/Operation Oni/Untitled.md",
-    "2022/Forensic/Sleuthkit Intr/Sleuthkit intro.md",
-    "2021/Forensic/Wireshark twoo twoo two twoo/Wireshark doo dooo do doo.md",
-    "2021/Forensic/wireshark doo dooo do doo/Untitled.md"
+    "2022/Forensic/Operation Oni/Operation Oni.md"
   ]
 }
