@@ -3,6 +3,6 @@
 
 **Solucion**
 ![[Pasted image 20221103090557.png]]
-0X375
+bandera: 0X375
 **Notas Adicionales**
 https://carlosrafaelgn.com.br/Asm86/

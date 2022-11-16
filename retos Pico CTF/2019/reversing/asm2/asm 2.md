@@ -5,4 +5,5 @@
 **Solucion**
 
 ![[Pasted image 20221103084626.png]]
+Bandera: 0x24c
 **Notas Adicionales**
