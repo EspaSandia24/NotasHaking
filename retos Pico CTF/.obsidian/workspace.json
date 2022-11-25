@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "051c639d4c7ed37f",
+        "id": "640662eb3a6f042b",
         "type": "tabs",
         "children": [
           {
-            "id": "8f6afdc30a9bfc24",
+            "id": "d2228d00d1a18f92",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2021/Crypto/Mod 26/Mod 26.md",
+                "file": "2019/reversing/Bill_gat35/Bill gat35.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2021/Crypto/Mod 26/Mod 26.md",
+                "file": "2019/reversing/Bill_gat35/Bill gat35.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2021/Crypto/Mod 26/Mod 26.md",
+                "file": "2019/reversing/Bill_gat35/Bill gat35.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2021/Crypto/Mod 26/Mod 26.md"
+                "file": "2019/reversing/Bill_gat35/Bill gat35.md"
               }
             }
           }
@@ -136,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "8f6afdc30a9bfc24",
+  "active": "d2228d00d1a18f92",
   "lastOpenFiles": [
+    "2019/reversing/reverse_cipher/Reverse_cipher.md",
+    "2019/reversing/Need For Speed/Need For Speed.md",
+    "formato.md",
     "2021/Crypto/MiniRSA/MiniRSA.md",
-    "2021/Crypto/Mod 26/Mod 26.md",
     "2022/Crypto/MorseCode/MorseCode.md",
     "2022/Crypto/rail fence/rail fence.md",
     "2022/Crypto/credstuff/credstuff.md",
     "2022/Crypto/basic-mod1/basic-mod1.md",
     "2022/Binario/buffer_overflow_1/buffer overflow 1.md",
-    "2022/Binario/buffer_overflow_0/buffer overflow 0.md",
-    "2022/Forensic/Enhance!/Enhance!.md",
-    "formato.md"
+    "2022/Binario/buffer_overflow_0/buffer overflow 0.md"
   ]
 }
